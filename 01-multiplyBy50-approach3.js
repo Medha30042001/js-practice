@@ -1,5 +1,5 @@
 // Screenshot: multiplyBy50.png
-// My solution (approach 2)
+// My solution (approach 3)
 
 function multiplyBy50(number) {
     let ans = number * 50;
