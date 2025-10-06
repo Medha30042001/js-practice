@@ -1,4 +1,4 @@
-
+//using for loop, and a different function parameter
 
 function doubleAll(arr) {
   let sum = 0;
