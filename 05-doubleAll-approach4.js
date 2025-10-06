@@ -1,4 +1,4 @@
-
+//using map
 
 function doubleAll(arr) {
   let sum = 0;
