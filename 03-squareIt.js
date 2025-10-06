@@ -1,4 +1,5 @@
-
+// Screenshot: 03-squareIt.png
+// My solution (approach 1)
 
 function squareIt(N) {
     let ans = N * N;
