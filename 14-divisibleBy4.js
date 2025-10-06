@@ -2,7 +2,7 @@
 
 function divisibleBy4(N) {
     if(N%4==0) return 'Yes'
-    else 'No';
+    else return 'No';
 }
 
 function main(){
