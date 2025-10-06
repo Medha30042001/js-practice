@@ -1,4 +1,5 @@
-
+// Screenshot: 04-findProduct.png
+// My solution (approach 1)
 
 function findProduct(A,B,C,D,E){
   let ans = A * B * C * D * E;
