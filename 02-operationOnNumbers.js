@@ -1,4 +1,5 @@
-
+// Screenshot: 02-operationOnNumbers.png
+// My solution (approach 1)
 
 function operationOnNumbers(number) {
     let ans = (((number * 3) + 7) - 10);
